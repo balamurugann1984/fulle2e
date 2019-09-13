@@ -8,7 +8,7 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		features = "C:\\Users\\inbg1\\eclipse-workspace\\com.cicd\\Features\\testsign.feature"
-		,glue = {"stepDefition"}
+		,glue = {"stepDefs"}
 		
 		)
 
